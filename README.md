@@ -68,16 +68,6 @@ O layout foi estruturado para se adaptar a diferentes tamanhos de tela, proporci
 
 ---
 
-## 💡 Possíveis Melhorias Futuras
-
-- Adicionar música de fundo opcional
-- Implementar contador regressivo para o aniversário
-- Adicionar suporte para múltiplas fotos
-- Criar sistema dinâmico de personalização via parâmetros na URL
-- Deploy em plataforma como Vercel ou Netlify
-
----
-
 ## 👨‍💻 Autor
 
 Feliciano Miranda
@@ -87,3 +77,5 @@ Feliciano Miranda
 ## 📄 Licença
 
 Este projeto é de uso pessoal e demonstrativo.
+
+
