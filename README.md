@@ -1,65 +1,89 @@
-🎉 Projeto: Feliz Aniversário, Kassia Manuel!
+# 🎉 Birthday Landing Page — Kassia Manuel
 
-Este projeto é uma landing page comemorativa de aniversário, desenvolvida com HTML, CSS e JavaScript, com o objetivo de celebrar de forma criativa e digital uma pessoa especial.
+Uma landing page comemorativa desenvolvida como cartão digital interativo de aniversário.  
+O projeto combina design visual, animações e personalização para criar uma experiência simples, elegante e emocional.
 
-Mais do que um simples site, esta página representa carinho, amizade e dedicação transformados em código.
+---
 
-💝 Sobre o Projeto
+## 📌 Visão Geral
 
-A página foi criada para homenagear Kassia Manuel, trazendo:
+Este projeto consiste em uma página web estática desenvolvida com **HTML, CSS e JavaScript**, com foco em:
 
-🎂 Uma mensagem personalizada de aniversário
+- Apresentação visual moderna
+- Estrutura organizada e limpa
+- Animações leves para melhor experiência do usuário
+- Personalização de conteúdo
 
-📸 Uma foto especial
+A proposta é demonstrar como projetos simples podem ser utilizados para criar experiências digitais significativas.
 
-🎈 Elementos visuais comemorativos
+---
 
-🎊 Efeito de confete animado usando a biblioteca canvas-confetti
+## 🛠️ Tecnologias Utilizadas
 
-🎁 Design em formato de cartão digital
+- **HTML5** — Estrutura semântica da aplicação
+- **CSS3** — Estilização e layout responsivo
+- **JavaScript (Vanilla JS)** — Interatividade
+- **Canvas-Confetti (CDN)** — Animação de confetes
 
-🛠️ Tecnologias Utilizadas
+CDN utilizada: https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js
 
-HTML5 – Estrutura da página
+---
 
-CSS3 – Estilização e design visual
+## 🎯 Funcionalidades
 
-JavaScript – Interatividade e animações
+- Layout em formato de cartão digital
+- Imagem personalizada
+- Mensagem customizada
+- Elementos visuais comemorativos
+- Animação de confete ao carregar a página
+- Estrutura simples e de fácil manutenção
 
-🎊 Biblioteca externa: canvas-confetti
+---
 
-📂 Estrutura do Projeto
-📁 projeto-aniversario
- ├── index.html
- ├── style.css
- ├── index.js
- └── 📁 assets
-      └── 03.jpeg
+## 📂 Estrutura do Projeto
 
-🎨 Funcionalidades
+📁 aniversario-kassia
+│
+├── index.html
+├── style.css
+├── index.js
+│
+└── 📁 assets
+└── 03.jpeg
 
-✔️ Layout responsivo
-✔️ Foto personalizada
-✔️ Mensagem de aniversário especial
-✔️ Animação de confetes ao carregar a página
-✔️ Elementos decorativos (balões e presente)
+---
 
-🚀 Como Executar o Projeto
+## 🚀 Como Executar Localmente
 
-Faça o download ou clone o repositório.
+1. Clone o repositório ou faça download dos arquivos.
+2. Certifique-se de que a imagem está dentro da pasta `assets`.
+3. Abra o arquivo `index.html` em seu navegador.
+4. A aplicação será carregada automaticamente.
 
-Certifique-se de que a imagem está dentro da pasta assets.
+---
 
-Abra o arquivo index.html no navegador.
+## 📱 Responsividade
 
-Aproveite a surpresa! 🎉
+O layout foi estruturado para se adaptar a diferentes tamanhos de tela, proporcionando boa experiência tanto em desktop quanto em dispositivos móveis.
 
-💌 Mensagem Especial
+---
 
-Este projeto não é apenas código.
-É uma demonstração de que a tecnologia também pode ser usada para espalhar amor, amizade e alegria.
+## 💡 Possíveis Melhorias Futuras
 
-"Algumas páginas são feitas de código.
-Outras são feitas de sentimentos."
+- Adicionar música de fundo opcional
+- Implementar contador regressivo para o aniversário
+- Adicionar suporte para múltiplas fotos
+- Criar sistema dinâmico de personalização via parâmetros na URL
+- Deploy em plataforma como Vercel ou Netlify
 
-Feliz Aniversário, Kassia Manuel! 🎂✨
+---
+
+## 👨‍💻 Autor
+
+Feliciano Miranda
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso pessoal e demonstrativo.
